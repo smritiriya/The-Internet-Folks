@@ -1,0 +1,21 @@
+.col2{
+    /* background-image: url("./../../public/Banner.jpg"); */
+
+}
+.navbtn{
+    border: 1px solid white;
+    color: white;
+    border-radius: 20px;
+    background: none;
+    padding: 10px;
+}
+.explore{
+    color: white;
+    border-radius: 25px;
+    background:#E23744 ;
+    padding: 15px;
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+    
+}
